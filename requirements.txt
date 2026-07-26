@@ -1,0 +1,14 @@
+ultralytics>=8.2.0
+opencv-python>=4.9.0
+numpy>=1.24.0
+PyYAML>=6.0.1
+
+# Choose one of the following Torch variants based on your system. The generic CPU build is safe.
+torch>=2.2.0
+torchvision>=0.17.0
+torchaudio>=2.2.0
+
+# Optional but useful
+matplotlib>=3.8.0
+tqdm>=4.66.0
+
